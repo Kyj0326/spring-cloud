@@ -9,4 +9,5 @@ spring:
     config:
       server:
         git:
-          uri: "https://github.com/Kyj0326/spring-cloud"
+          uri: "https://git-codecommit.ap-northeast-2.amazonaws.com/v1/repos/twd-config-repository"
+

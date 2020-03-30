@@ -1,2 +1,2 @@
-test:
-  message: "Message From Default Local Git Repository (Properties update...12221)"
+application:
+  message: "test"
